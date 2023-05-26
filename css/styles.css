@@ -70,6 +70,7 @@ header nav ul li a{
 
 header nav ul li a:hover{
     color: #3E50E5;
+    transition: all 0.4s;
 }
 
 header nav ul li:last-of-type a{
@@ -146,6 +147,7 @@ section.hero img{
     color: #3E50E5;
     background-color: #FFF;
     border: 1px solid #3E50E5;
+    transition: all 0.4s;
 }
 
 section.Best-Sellers {
@@ -275,6 +277,7 @@ section.Best-Sellers .product-slider .product:hover .product-info button{
     color: #FFF;
     background-color: #3E50E5;
     border: 1px solid #3E50E5;
+    transition: all 0.4s;
 }
 
 section.Newsletter{
@@ -352,6 +355,7 @@ section.Newsletter form button:hover{
     color: #3E50E5;
     background-color: #FFF;
     border: 1px solid #3E3E3E;
+    transition: all 0.4s;
 }
 
 footer .bottom-nav {
@@ -415,4 +419,5 @@ footer .copyright-text a{
 
 footer .copyright-text a:hover{
     color: #3E50E5;
+    transition: all 0.4s;
 }
